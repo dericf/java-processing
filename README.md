@@ -61,7 +61,7 @@ public class App extends PApplet {
 import processing.core.PApplet;
 
 public class Component {
-    private PApplet app;
+    private PApplet p;
 
     public Component(PApplet p, /* ...other params */) {
         /* Component constructor */
